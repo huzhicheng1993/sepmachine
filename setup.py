@@ -25,8 +25,9 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
     ],
-    python_requires=">=3.6,<3.8",
+    python_requires=">=3.6,<3.9",
     install_requires=[
         "stagesepx>=0.10.4",
         "loguru>=0.2.5",
